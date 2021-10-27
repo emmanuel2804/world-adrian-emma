@@ -11291,6 +11291,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2021-10-26 21:03:33 -0400"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_crimson_black_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-15 20:57:26 -0400"
@@ -33578,6 +33584,7 @@
     "criteria": {
       "minecraft:forest": "2021-10-15 20:57:30 -0400",
       "minecraft:mountains": "2021-10-17 14:01:10 -0400",
+      "minecraft:taiga": "2021-10-26 20:56:31 -0400",
       "minecraft:birch_forest": "2021-10-17 12:05:18 -0400",
       "minecraft:beach": "2021-10-25 20:58:29 -0400",
       "minecraft:dark_forest": "2021-10-15 21:08:10 -0400",
@@ -33732,6 +33739,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_birch_stone_bricks_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-15 20:57:18 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2021-10-26 20:50:53 -0400"
     },
     "done": true
   },
@@ -34409,6 +34422,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-10-26 20:53:13 -0400",
       "cooked_beef": "2021-10-23 01:12:15 -0400",
       "beef": "2021-10-17 11:28:17 -0400",
       "baked_potato": "2021-10-17 19:13:24 -0400",
