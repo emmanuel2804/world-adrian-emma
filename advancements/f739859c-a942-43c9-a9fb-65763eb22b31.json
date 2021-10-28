@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_oak_blue_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:43:52 +0100"
@@ -1571,6 +1577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_oak_yellow_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:43:56 +0100"
@@ -2345,6 +2357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_crimson_cream_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:03 +0100"
@@ -2776,6 +2794,12 @@
       "has_the_recipe": "2021-10-27 01:43:41 +0100"
     },
     "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2021-10-28 04:49:11 +0100"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_acacia_paper_timber_frame": {
     "criteria": {
@@ -4433,6 +4457,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-10-28 04:41:00 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_crimson_crimson_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:43:56 +0100"
@@ -4490,6 +4520,12 @@
   "structurize:recipes/structurize.timber_frames/framed_birch_stone_bricks_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
     },
     "done": true
   },
@@ -5641,7 +5677,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2021-10-27 02:09:32 +0100"
+      "minecraft:pillager": "2021-10-27 02:09:32 +0100",
+      "minecraft:skeleton": "2021-10-28 04:52:47 +0100",
+      "minecraft:spider": "2021-10-28 04:49:55 +0100",
+      "minecraft:creeper": "2021-10-28 04:41:03 +0100",
+      "minecraft:zombie": "2021-10-28 04:49:11 +0100"
     },
     "done": false
   },
@@ -6464,6 +6504,12 @@
   "structurize:recipes/structurize.timber_frames/down_gated_cactus_gray_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:43:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
     },
     "done": true
   },
@@ -8384,6 +8430,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_spruce_green_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
     },
     "done": true
   },
@@ -11216,6 +11268,12 @@
   "smallships:recipes/bop_jacaranda_brigg": {
     "criteria": {
       "in_water": "2021-10-27 01:53:35 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2021-10-28 05:08:50 +0100"
     },
     "done": true
   },
@@ -14972,6 +15030,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_jungle_gray_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
     },
     "done": true
   },
@@ -20365,6 +20429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:43:47 +0100"
@@ -25213,6 +25283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_dark_oak_birch_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:09 +0100"
@@ -27202,6 +27278,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_cactus_blue_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
     },
     "done": true
   },
@@ -29443,6 +29525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_acacia_yellow_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:43:51 +0100"
@@ -29662,6 +29750,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_crimson_spruce_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
     },
     "done": true
   },
@@ -30196,6 +30290,12 @@
   "structurize:recipes/structurize.timber_frames/horizontal_plain_crimson_red_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
     },
     "done": true
   },
@@ -33393,10 +33493,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2021-10-28 05:19:26 +0100",
       "minecraft:forest": "2021-10-27 01:44:24 +0100",
+      "minecraft:mountains": "2021-10-28 05:04:33 +0100",
+      "minecraft:taiga": "2021-10-28 05:14:02 +0100",
+      "minecraft:jungle": "2021-10-28 05:19:31 +0100",
       "minecraft:birch_forest": "2021-10-27 03:14:50 +0100",
+      "minecraft:jungle_hills": "2021-10-28 05:24:07 +0100",
       "minecraft:dark_forest": "2021-10-27 02:14:07 +0100",
       "minecraft:river": "2021-10-27 03:09:50 +0100",
+      "minecraft:birch_forest_hills": "2021-10-28 04:46:47 +0100",
+      "minecraft:wooded_mountains": "2021-10-28 05:05:32 +0100",
+      "minecraft:wooded_hills": "2021-10-28 05:03:10 +0100",
       "minecraft:swamp": "2021-10-27 01:45:20 +0100",
       "minecraft:plains": "2021-10-27 03:09:48 +0100"
     },
@@ -35036,6 +35144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:19 +0100"
@@ -35105,6 +35219,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_the_recipe": "2021-10-27 01:44:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-28 04:45:08 +0100"
     },
     "done": true
   },
